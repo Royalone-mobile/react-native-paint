@@ -1,20 +1,22 @@
 {
-  "name": "signature-example",
+  "name": "rmotr-paint",
   "version": "0.0.0",
-  "description": "Hello Exponent!",
-  "author": null,
-  "private": true,
-  "main": "main.js",
+  "description": "Minimal implementation of a 'Paint' application using React Native and Exponent",
+  "author": "rmotr.com",
+  "private": false,
+  "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "test": "jest --no-cache --verbose"
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
   },
   "dependencies": {
-    "@exponent/ex-navigation": "^1.6.0",
-    "@exponent/vector-icons": "^1.0.4",
-    "exponent": "~12.0.0",
-    "react": "~15.3.2",
-    "react-native": "github:exponentjs/react-native#sdk-12.0.0",
-    "react-native-svg": "^4.3.3"
+    "expo": "^30.0.1",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
+    "react-native-svg": "^9.0.3",
+    "@expo/vector-icons": "^9.0.0"
   },
   "devDependencies": {
     "eslint": "^3.10.2",

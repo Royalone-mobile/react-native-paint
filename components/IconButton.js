@@ -1,9 +1,8 @@
 import React from 'react';
 import { StyleSheet, TouchableOpacity } from 'react-native';
-import { FontAwesome } from '@exponent/vector-icons';
+import { FontAwesome } from '@expo/vector-icons';
 
 class IconButton extends React.Component {
-
   render() {
     return (
       <TouchableOpacity

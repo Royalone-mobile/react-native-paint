@@ -1,7 +1,7 @@
 import React from 'react';
 import { Dimensions, View,
          Text, StyleSheet } from 'react-native';
-import { takeSnapshotAsync } from 'exponent';
+import { takeSnapshotAsync } from 'expo';
 import Colors from '../constants/Colors';
 import SignatureView from '../components/SignatureView';
 import Header from '../components/Header';
@@ -103,6 +103,7 @@ let styles = StyleSheet.create({
     fontSize: 12,
     position: 'absolute',
     bottom: 5,
-    right: 10
+    right: 10,
+    paddingBottom: 20
   }
 });

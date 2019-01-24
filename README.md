@@ -2,15 +2,13 @@
 
 Minimal implementation of a "Paint" app using React Native and Expo
 
-https://exp.host/@rmotr/rmotr-paint
+![qr](https://user-images.githubusercontent.com/7065401/51691724-15c3dd00-1fda-11e9-9379-365ad36876a7.png)
+
+https://snack.expo.io/@rmotr/cmVhY3
 
 <p align="center">
   <img src="http://i.imgur.com/XzR65hx.gif">
 </p>
-
-![qr](https://user-images.githubusercontent.com/7065401/51691724-15c3dd00-1fda-11e9-9379-365ad36876a7.png)
-
-https://snack.expo.io/@rmotr/cmVhY3
 
 ## Setting up project dependencies
 

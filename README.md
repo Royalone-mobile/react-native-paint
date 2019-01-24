@@ -2,9 +2,9 @@
 
 Minimal implementation of a "Paint" app using React Native and Expo
 
-![qr](https://user-images.githubusercontent.com/7065401/51691724-15c3dd00-1fda-11e9-9379-365ad36876a7.png)
+![qr](https://user-images.githubusercontent.com/7065401/51696331-021d7400-1fe4-11e9-9d46-f4802a91eb3a.png)
 
-https://snack.expo.io/@rmotr/cmVhY3
+https://snack.expo.io/@rmotr/cGFpbn
 
 <p align="center">
   <img src="http://i.imgur.com/XzR65hx.gif">
